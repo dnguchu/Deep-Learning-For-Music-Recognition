@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+keras
+librosa
+opencv-python
+numpy
+requests

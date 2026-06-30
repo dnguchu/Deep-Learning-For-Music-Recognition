@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+scikit-learn
+matplotlib
+librosa
+opencv-python
+tensorflow
+keras
